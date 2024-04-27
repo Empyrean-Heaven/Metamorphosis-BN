@@ -1,5 +1,5 @@
 # Metamorphosis-BN
-A mod for Cataclysm: Bright Nights
+A mod for Cataclysm: Bright Nights. It is highly recommended to play with my other mods Nine Cloud Dream and Phantasmagoria.
 ### Premise
 They say that the Cataclysm turned everyone into a monster. But what if you were a monster before the Cataclysm? Are you finally normal now?
 

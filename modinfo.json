@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "metamorphosis",
+    "name": "<color_white>Metamorphosis</color>",
+    "authors": [ "Hyojason" ],
+    "description": "A mod that turns the player no longer human. As the Cataclysm created monstrosities, so too must you follow suit.",
+    "version": "Version 1.0",
+    "category": "content",
+    "dependencies": [ "bn" ]
+  }
+]

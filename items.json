@@ -1,0 +1,51 @@
+[
+  {
+    "id": "kalpa_stone_armor",
+    "type": "ARMOR",
+    "category": "armor",
+    "name": { "str_sp": "stagnant Kalpa" },
+    "description": "A manifestation of the unbreakable nature of the Kalpa. The Kalpa may be a pebble now, but once it was a grand mountain, towering over all.",
+    "weight": "8000 g",
+    "volume": "8 L",
+    "material": [ "kalpa_matter" ],
+    "symbol": "[",
+    "color": "light_gray",
+    "covers": [ "head", "mouth", "eyes", "torso", "arm_l", "arm_r", "hand_l", "hand_r", "leg_l", "leg_r", "foot_l", "foot_r" ],
+    "coverage": 80,
+    "encumbrance": 10,
+    "warmth": 0,
+    "material_thickness": 1,
+    "environmental_protection": 1,
+    "flags": [ "ONLY_ONE", "OVERSIZE", "PERSONAL", "STURDY", "TRADER_AVOID", "NO_TAKEOFF" ]
+  },
+  {
+    "id": "abominable_awakening",
+    "type": "COMESTIBLE",
+    "comestible_type": "MED",
+    "category": "tools",
+    "name": { "str": "Husk of Humanity", "str_pl": "Husks of Humanity" },
+    "description": "A leaflet comprised of a few papers that look as if they were made from dead skin. You feel your flesh calling out to it, ordering you to consume it. You realize the pages are filled with your life, but for some reason, every sentence ends with 'False.'",
+    "weight": "200 g",
+    "volume": "250 ml",
+    "price_postapoc": "20 USD",
+    "material": [ "paper" ],
+    "symbol": "?",
+    "looks_like": "recipe_creepy",
+    "color": "light_gray",
+    "flags": [ "NO_SALVAGE", "NO_INGEST", "NUTRIENT_OVERRIDE" ],
+    "use_action": { "type": "cast_spell", "spell_id": "abominable_awakening_spell", "no_fail": true, "level": 0 }
+  },
+  {
+    "id": "hannibal_incarnate",
+    "type": "ARMOR",
+    "name": { "str": "hannibal incarnate" },
+    "description": "You feel as though by tearing through the flesh of your enemies, you would be able to heal your injuries rapidly.",
+    "color": "dark_gray",
+    "symbol": "o",
+    "artifact_data": { "effects_worn": [ "AEP_SAP_LIFE" ] },
+    "relic_data": {
+      "passive_effects": [ { "has": "WORN", "values": [ { "value": "ARMOR_COLD", "add": -20 }, { "value": "ARMOR_HEAT", "add": -20 } ] } ]
+    },
+    "flags": [ "AURA", "STURDY", "SEMITANGIBLE", "OVERSIZE", "ONLY_ONE", "TRADER_AVOID", "NONCONDUCTIVE", "NO_TAKEOFF" ]
+  }
+]

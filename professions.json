@@ -1,0 +1,11 @@
+[
+  {
+    "type": "profession",
+    "id": "ubermensch",
+    "name": "Ubermensch",
+    "description": "Humans locked you up in a facility to study you. They claimed you developed something called 'Hatred Against One's Species' but they were wrong. How could you hate humans? How could humans hate you? The dead skin of your humanity lifted away, and as you devoured the remnants, you were ensconced in divinity.",
+    "points": 4,
+    "traits": [ "PSYCHOPATH" ],
+    "items": { "both": { "items": [ "book_abomination" ] }, "male": [ "boxer_shorts" ], "female": [ "bra", "panties" ] }
+  }
+]

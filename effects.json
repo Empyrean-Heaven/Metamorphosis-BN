@@ -1,0 +1,74 @@
+[
+  {
+    "type": "effect_type",
+    "id": "self_descend",
+    "name": [ "Destitution", "Deterioration", "Disintegration", "Obliteration" ],
+    "desc": [
+      "As each inferior aspect of yourself is fed with loathsome gluttony, the cries of innocence grow louder, which in turn feed the bestial fervors."
+    ],
+    "rating": "neutral",
+    "max_intensity": 4,
+    "int_add_val": 1,
+    "int_decay_tick": 6000,
+    "base_mods": {
+      "vomit_chance": [ 60 ],
+      "cough_chance": [ 60 ],
+      "pain_chance": [ 60 ],
+      "pain_min": [ 1 ],
+      "hurt_min": [ -1 ],
+      "hurt_chance": [ 80 ]
+    },
+    "scaling_mods": {
+      "vomit_chance": [ -2 ],
+      "cough_chance": [ -2 ],
+      "pain_chance": [ -2 ],
+      "pain_min": [ 1 ],
+      "hurt_min": [ -1 ],
+      "hurt_chance": [ -3 ]
+    },
+    "show_in_info": true
+  },
+  {
+    "type": "effect_type",
+    "id": "kalpa_stone_effect",
+    "name": [ "Stone In The Kalpic Void" ],
+    "desc": [
+      "You briefly caught a glimpse of a nondescript pebble on the side of the road. An almighty presence weighed down upon you as the image of a vast mountain superimposed with that of the tiny pebble. Once a King, always a King."
+    ],
+    "apply_message": "He who wears the crown must bear its weight.",
+    "remove_message": "With little power, comes little responsibility.",
+    "rating": "good",
+    "blocks_effects": [ "bleed", "bite" ],
+    "max_intensity": 4,
+    "int_add_val": 1,
+    "base_mods": { "str_mod": [ 2, 2 ], "dex_mod": [ -2, -2 ], "speed_mod": [ -5, -5 ], "pkill_tick": [ 40 ], "pkill_min": [ 2 ] },
+    "scaling_mods": { "str_mod": [ 1, 2 ], "dex_mod": [ -1, -2 ], "speed_mod": [ -5, -10 ] }
+  },
+  {
+    "type": "effect_type",
+    "id": "inhuman_gaze_effect",
+    "name": [ "Perturbed", "Deranged", "Delusional", "Demented", "Devastated", "Defiled" ],
+    "desc": [ "You witnessed something you shouldn't have." ],
+    "reduced_desc": [ "You feel the glance of a mad being, but as you are already maddened, it has no influence upon you." ],
+    "apply_message": "Your mind begins to tear itself at its roots.",
+    "remove_message": "You breathe a shallow sigh of relief. It is over.",
+    "miss_messages": [
+      [ "You hear voices not of your own.", 5 ],
+      [ "You can no longer remember anything joyous.", 5 ],
+      [ "You feel a macabre presence laughing at you.", 5 ],
+      [ "You say yes and we yes and they yes and yes we must yes.", 5 ],
+      [ "You feel your body burning yet you are not on fire.", 10 ],
+      [ "You lost sight of yourself.", 10 ],
+      [ "Your heart feels like bursting.", 10 ]
+    ],
+    "removes_effects": [ "happy" ],
+    "rating": "bad",
+    "max_intensity": 6,
+    "int_add_val": 1,
+    "resist_traits": [ "PSYCHOPATH" ],
+    "int_decay_tick": 800,
+    "base_mods": { "int_mod": [ -1, 0 ], "per_mod": [ -1, 0 ], "fatigue_tick": [ 30, 60 ], "fatigue_min": [ 2 ] },
+    "scaling_mods": { "dex_mod": [ -0.25, -0.125 ], "int_mod": [ -0.5, -0.25 ], "per_mod": [ -0.5, -0.25 ], "fatigue_min": [ 1 ] },
+    "show_in_info": true
+  }
+]

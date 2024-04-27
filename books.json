@@ -1,0 +1,78 @@
+[
+  {
+    "id": "book_abomination",
+    "type": "BOOK",
+    "name": { "str": "Tales of the Abominable One", "str_pl": "copies of Tales of the Abominable One" },
+    "description": "It is an unusual tome decorated with colors you can't quite remember ever seeing. All sorts of equations and diagrams litter the landscape. It almost seems like somebody experimenting with different techniques to achieve something. At the very last page, you encounter a dreadful yet simple formula. For what purpose it was dreamed up, you cannot tell.",
+    "weight": "400 g",
+    "volume": "2 L",
+    "price": "30 USD",
+    "price_postapoc": "10 USD",
+    "material": [ "paper" ],
+    "symbol": "?",
+    "looks_like": "book_philosophy",
+    "color": "yellow",
+    "skill": "survival",
+    "required_level": 1,
+    "max_level": 2,
+    "intelligence": 10,
+    "time": "5 m",
+    "fun": -3,
+    "flags": [ "INSPIRATIONAL" ]
+  },
+  {
+    "id": "kalpa_book",
+    "type": "BOOK",
+    "name": {
+      "str": "Four Billion, Three Hundred and Twenty-One Million Years",
+      "str_pl": "copies of Four Billion, Three Hundred and Twenty-One Million Years"
+    },
+    "description": "An almost comically large book with nearly four-thousand pages. In print so small you need squint to be able to see, the word 'Time' is repeated ad nauseum within.",
+    "weight": "300 g",
+    "volume": "350 ml",
+    "price": 3000,
+    "symbol": "?",
+    "color": "light_gray",
+    "looks_like": "book_philosophy",
+    "use_action": { "type": "learn_spell", "spells": [ "kalpa_stone" ] }
+  },
+  {
+    "id": "cardinal_book",
+    "type": "BOOK",
+    "name": { "str": "Cardinal Directions", "str_pl": "copies of Cardinal Directions" },
+    "description": "A tome seemingly gilded in gold greets the reader of this work. Inside are depictions of saints and angels. For some reason, the descriptions feel a bit too detailed. The texture of an angel's wings, their skeletal structure, the color and taste of their blood, the luminosity of their halo and irises, the shape of their heart, etc., are sprawling within.",
+    "weight": "200 g",
+    "volume": "220 ml",
+    "price": 1200,
+    "symbol": "?",
+    "color": "light_gray",
+    "looks_like": "book_philosophy",
+    "use_action": { "type": "learn_spell", "spells": [ "summon_north" ] }
+  },
+  {
+    "id": "hannibal_book",
+    "type": "BOOK",
+    "name": { "str": "Crimson Tongue", "str_pl": "copies of Crimson Tongue" },
+    "description": "A startlingly short detective narrative of an innocuous Monsieur H. who goes around town cleaning up the dirty streets. The secret is that the Monsiuer is the culprit, but also the victim? How baffling.",
+    "weight": "130 g",
+    "volume": "130 ml",
+    "price": 300,
+    "symbol": "?",
+    "color": "light_gray",
+    "looks_like": "book_philosophy",
+    "use_action": { "type": "learn_spell", "spells": [ "hannibal_select" ] }
+  },
+  {
+    "id": "shadow_book",
+    "type": "BOOK",
+    "name": { "str": "Exodia", "str_pl": "copies of Exodia" },
+    "description": "An exceptionally prolonged comic book series. It mentions a place called the Shadow Realm quite frequently, and for some strange reason, the shadows around you seem to churn and froth every time you read those words.",
+    "weight": "800 g",
+    "volume": "500 ml",
+    "price": 4500,
+    "symbol": "?",
+    "color": "light_gray",
+    "looks_like": "book_philosophy",
+    "use_action": { "type": "learn_spell", "spells": [ "shadow_realm" ] }
+  }
+]

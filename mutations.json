@@ -1,0 +1,13 @@
+[
+  {
+    "type": "mutation",
+    "id": "ABOMINATION",
+    "name": "Abomination",
+    "points": 2,
+    "description": "You always felt that the concepts of the Id, Ego, and Superego weren't merely abstract concepts, but that you could feel and even perceive them. As the cocoon of your humanity crumbled as the years went by, you began to develop a sense of Otherness with your fellow creatures. On the day you at last removed the shackles of human nature, you found yourself capable of incredulous feats.",
+    "starting_trait": true,
+    "purifiable": false,
+    "valid": false,
+    "spells_learned": [ [ "inhuman_gaze", 0 ] ]
+  }
+]

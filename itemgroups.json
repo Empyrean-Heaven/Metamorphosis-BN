@@ -1,0 +1,14 @@
+[
+  {
+    "id": "exotic_books",
+    "type": "item_group",
+    "subtype": "distribution",
+    "entries": [
+      { "item": "book_abomination", "prob": 1 },
+      { "item": "kalpa_book", "prob": 1 },
+      { "item": "cardinal_book", "prob": 1 },
+      { "item": "hannibal_book", "prob": 1 },
+      { "item": "shadow_book", "prob": 1 }
+    ]
+  }
+]

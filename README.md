@@ -1,6 +1,6 @@
-### Metamorphosis-BN
+# Metamorphosis-BN
 A mod for Cataclysm: Bright Nights
-# Premise
+### Premise
 They say that the Cataclysm turned everyone into a monster. But what if you were a monster before the Cataclysm? Are you finally normal now?
 
 This simple mod adds a new path of magic you can tread. The new Abomination class has five spells that can be learned and they are as follows. Be warned however, for this system of magic uses your self as a grotesque medium, and if you use it too much it'll strain you body and soul.

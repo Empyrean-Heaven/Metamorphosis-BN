@@ -3,7 +3,7 @@ A mod for Cataclysm: Bright Nights
 ### Premise
 They say that the Cataclysm turned everyone into a monster. But what if you were a monster before the Cataclysm? Are you finally normal now?
 
-This simple mod adds a new path of magic you can tread. The new Abomination class has five spells that can be learned and they are as follows. Be warned however, for this system of magic uses your self as a grotesque medium, and if you use it too much it'll strain you body and soul.
+This simple mod adds a new path of magic you can tread. The new Abomination class has five spells that can be learned and they are as follows. Be warned however, for this system of magic uses your self as a grotesque medium, and if you use it too much it'll strain your body and soul.
 
 • Ignorance Is Bliss: Terrify your enemies by allowing them to catch a glimpse of the real you. However, Psychopaths will be able to resist this effect. The effects may stack up to six times, so cast away!
 

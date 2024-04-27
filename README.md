@@ -7,7 +7,7 @@ This simple mod adds a new path of magic you can tread. The new Abomination clas
 
 • Ignorance Is Bliss: Terrify your enemies by allowing them to catch a glimpse of the real you. However, Psychopaths will be able to resist this effect. The effects may stack up to six times, so cast away!
 
-• Stone of the Kalpa: You behold in your bosom, in the most sacred of hearts, a stone. This stone, is the axis of the world. And thus, it is indestructible. Albeit now it is hardly a pebble, and in time will become dust, yet never forget that it was once a mountain of epic proportions, eclipsing the stars and planets. You obtain a cool suit of armor that gives decent protection.
+• Stone of the Kalpa: You behold in your bosom, in the most sacred heart of hearts, a stone. This stone, is the axis of the world. And thus, it is indestructible. Albeit now it is hardly a pebble, and in time will become dust, yet never forget that it was once a mountain of epic proportions, eclipsing the stars and planets. You obtain a cool suit of armor that gives decent protection.
 
 • Summon Cardinal of the North: In the ye olden days, the four Heavenly Kings were defeated by the Divine Armament and in turn became the Four Cardinals. Call forth the Cardinal of the North, and tremble in awe and terror. Be aware that there is a chance the Cardinal may be hostile to you. It is a frightening game of luck.
 

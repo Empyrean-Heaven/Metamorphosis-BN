@@ -14,3 +14,5 @@ This simple mod adds a new path of magic you can tread. The new Abomination clas
 • Dreams of a Cannibal: Once there was a man who yearned to heal his own wounds with the flesh and blood of others. Through crude trials, he succeeded. Don the mantle of the one called Hannibal and witness his gift. Melee damage above 5 inflicted upon another will now heal you.
 
 • Shadow Realm: Herald the darkness and dampen the light with this accursed spell. It is an AOE spell that covers the area in shadow. Great for swift getaways.
+
+You can randomly encounter various books that teach you these wicked arts while traversing the world.

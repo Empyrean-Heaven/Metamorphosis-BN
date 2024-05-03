@@ -18,6 +18,8 @@ This simple mod adds a new path of magic you can tread. The new Abomination clas
 You can randomly encounter various books that teach you these wicked arts while traversing the world.
 
 ### Changelog
+2024.04.27. (Sat) First Release
+
 2024.05.03. (Fri)
 
 • Fixed the Husk of Humanity recipe being autolearned and it needing 5 corpses or 50 paper instead of 5 corpses and 50 paper.

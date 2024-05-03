@@ -24,4 +24,4 @@ You can randomly encounter various books that teach you these wicked arts while 
 
 • Fixed the Husk of Humanity recipe being autolearned and it needing 5 corpses OR 50 paper instead of 5 corpses AND 50 paper.
 
-• The Cardinal of the North is now capable of using the Ignorance Is Bliss spell. It is possible to resist the spell if the player is a Psychopath and vice versa, meaning Psychopath NPCs will be unaffected as well if either you or the Cardinal casts it at them.
+• The Cardinal of the North is now capable of using the Ignorance Is Bliss spell. It is possible to resist the spell if the player is a Psychopath and vice versa, meaning Psychopath NPCs will be unaffected as well if either you or the Cardinal casts it at them. (Note to Self: Originally this feature was throwing off invalid spell_id errors. The cause was monsters.json loading earlier than spells.json due to alphabetical precedence. Changing spells.json to 0_spells.json made it work.)

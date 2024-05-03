@@ -4,11 +4,10 @@
     "result": "abominable_awakening",
     "category": "CC_OTHER",
     "skill_used": "survival",
-    "difficulty": 0,
+    "difficulty": 2,
     "time": "4 h",
     "book_learn": [ [ "book_abomination", 2 ] ],
-    "autolearn": false,
     "tools": [ [ [ "survival_marker", 50 ], [ "permanent_marker", 50 ] ] ],
-    "components": [ [ [ "paper", 50 ], [ "corpse_generic_human", 5 ] ] ]
+    "components": [ [ [ "paper", 50 ] ], [ [ "corpse_generic_human", 5 ] ] ]
   }
 ]

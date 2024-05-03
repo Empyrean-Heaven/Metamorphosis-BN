@@ -21,7 +21,15 @@
     "melee_dice_sides": 6,
     "melee_cut": 8,
     "harvest": "zombie",
-    "special_attacks": [ [ "impale", 4 ] ],
+    "special_attacks": [
+      [ "impale", 4 ],
+      {
+        "type": "spell",
+        "spell_data": { "id": "inhuman_gaze" },
+        "cooldown": 15,
+        "monster_message": "A soft beam of tepid hues escape the eyes of the Cardinal!"
+      }
+    ],
     "death_drops": "default_zombie_clothes",
     "death_function": [ "NORMAL" ],
     "flags": [ "SEES", "HEARS", "SMELLS", "WARM", "BLEED", "GUILT", "POISON", "REVIVES", "FILTHY" ]

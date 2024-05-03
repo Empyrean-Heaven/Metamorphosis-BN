@@ -19,5 +19,7 @@ You can randomly encounter various books that teach you these wicked arts while 
 
 ### Changelog
 2024.05.03. (Fri)
+
 • Fixed the Husk of Humanity recipe being autolearned and it needing 5 corpses or 50 paper instead of 5 corpses and 50 paper.
+
 • The Cardinal of the North is now capable of using the Ignorance Is Bliss spell. (For some reason, it turns up an error when Strict JSON Checks is turned on. At first I thought it was due to my spell being faulty, so I tried an Arcana monster spell, but same deal. If an errors pops up saying the spell_id inhuman_gaze doesn't exist, it is okay to ignore. I checked and it works fine.) It is possible to resist the spell if the player is a Psychopath and vice versa, meaning Psychopath NPCs will be unaffected as well if either you or the Cardinal casts it at them.

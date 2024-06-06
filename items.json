@@ -16,7 +16,7 @@
     "warmth": 0,
     "material_thickness": 1,
     "environmental_protection": 1,
-    "flags": [ "ONLY_ONE", "OVERSIZE", "PERSONAL", "STURDY", "TRADER_AVOID", "NO_TAKEOFF" ]
+    "flags": [ "OVERSIZE", "PERSONAL", "STURDY", "TRADER_AVOID", "NO_TAKEOFF" ]
   },
   {
     "id": "abominable_awakening",

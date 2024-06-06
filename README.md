@@ -25,3 +25,7 @@ You can randomly encounter various books that teach you these wicked arts while 
 • Fixed the Husk of Humanity recipe being autolearned and it needing 5 corpses OR 50 paper instead of 5 corpses AND 50 paper.
 
 • The Cardinal of the North is now capable of using the Ignorance Is Bliss spell. It is possible to resist the spell if the player is a Psychopath and vice versa, meaning Psychopath NPCs will be unaffected as well if either you or the Cardinal casts it at them. (Note to Self: Originally this feature was throwing off invalid spell_id errors. The cause was monsters.json loading earlier than spells.json due to alphabetical precedence. Changing spells.json to 0_spells.json made it work.)
+
+2024.06.06. (Thur)
+
+• Altered the Kalpa armor to allow the player to wear more than one, and subsequently the effects of the Kalpa can stack only up to two times now, coinciding with the number of Kalpa armor you can wear. Before it was four times, for armor you could only wear one of... Partially changed the description of the book Tales of the Abominable One.

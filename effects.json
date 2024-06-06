@@ -39,7 +39,7 @@
     "remove_message": "With little power, comes little responsibility.",
     "rating": "good",
     "blocks_effects": [ "bleed", "bite" ],
-    "max_intensity": 4,
+    "max_intensity": 2,
     "int_add_val": 1,
     "base_mods": { "str_mod": [ 2, 2 ], "dex_mod": [ -2, -2 ], "speed_mod": [ -5, -5 ], "pkill_tick": [ 40 ], "pkill_min": [ 2 ] },
     "scaling_mods": { "str_mod": [ 1, 2 ], "dex_mod": [ -1, -2 ], "speed_mod": [ -5, -10 ] }
